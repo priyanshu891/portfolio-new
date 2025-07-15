@@ -6,7 +6,8 @@ export default defineConfig({
 	plugins: [tailwindcss(), sveltekit()],
 	preview: {
 		port: 3400,
-		host: true
+		host: true,
+		allowedHosts: ['localhost', 'portfolio.31.97.205.227.sslip.io']
 	},
 	test: {
 		projects: [
