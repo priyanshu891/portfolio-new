@@ -7,7 +7,7 @@ export default defineConfig({
 	preview: {
 		port: 3400,
 		host: true,
-		allowedHosts: ['localhost', 'portfolio.31.97.205.227.sslip.io']
+		allowedHosts: ['localhost', 'portfolio.devhawks.in']
 	},
 	test: {
 		projects: [
