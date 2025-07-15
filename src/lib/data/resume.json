@@ -1,0 +1,178 @@
+{
+  "name": "Priyanshu Rai",
+  "phone": "+91-8527264323",
+  "email": "Priyanshu.rai891@gmail.com",
+  "dob": "April 11th, 1997",
+  "address": "E4-501, Supertech Ecovillage-1 | Greater Noida West, UP 201306",
+  "intro": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.",
+  "experiences": [
+    {
+      "organisation": "Persistent Systems",
+      "designation": "Engineering Lead",
+      "start": "May 2021",
+      "end": "Present",
+      "description": [
+        "Working directly with clients on a research project, demonstrating strong communication and interpersonal skills to understand their requirements and develop an application that meets their needs",
+        "Proactively identifying and resolving issues in a timely manner, effectively coordinating with the client to ensure their satisfaction and the successful completion of the project.",
+        "Demonstrating strong problem-solving skills, leveraging my technical expertise to develop creative solutions to complex challenges.",
+        "Utilizing my expertise in React, JavaScript, and NextJS to develop an innovative application that gathered the user feedback by conducting tasks and surveys for our NLP pipeline which is used to improve our application.",
+        "Maintaining up-to-date knowledge of industry trends and best practices, continually seeking opportunities to enhance my skills and knowledge."
+      ]
+    },
+    {
+      "organisation": "Accenture",
+      "designation": "Application Development Analyst",
+      "start": "Jan 2019",
+      "end": "May 2021",
+      "description": [
+        "Actively contributed to an agile software development environment utilizing the Scrum process, collaborating with cross-functional teams to deliver high-quality software solutions on time and within budget.",
+        "Demonstrated exceptional attention to detail and a deep understanding of client requirements, building features that aligned with the project goals and objectives.",
+        "Proactively collaborated with other teams to resolve miscellaneous issues in parallel, ensuring that the project was delivered without delays or roadblocks.",
+        "Utilized my expertise in Angular, HTML5, and CSS3 to develop a Single Page Application that exceeded client expectations and delivered significant value.",
+        "Recognized for my commitment to delivering high-quality solutions and making a measurable impact on client value creation, receiving an award for my outstanding contributions."
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "degree": "Bachelor's Degree",
+      "board": "Dr. A.P.J Abdul Kalam Technical University",
+      "start": "2014",
+      "end": "2018",
+      "place": "Greater Noida, India",
+      "course": "Bachelor of Technology",
+      "stream": "Computer Science and Engineering",
+      "description": ""
+    },
+    {
+      "degree": "Senior Secondary",
+      "board": "Central Board of Secondary Education (CBSE)",
+      "start": "",
+      "end": "2014",
+      "place": "Noida, India",
+      "course": "XII (Senior Secondary)",
+      "stream": "Non-Medical",
+      "description": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Semantic Automation (Data Coach)",
+      "alias": "",
+      "start": "July 2023",
+      "end": "Present",
+      "description": [
+        "Contributed to the development of Watsonx.data application that provides user easily access and analysis of expansive, distributed data",
+        "Developed an semantic enrichment feedback application where user can give the feedback to semantically enriched tables and columns of the database"
+      ]
+    },
+    {
+      "name": "GOFA (Goal Oriented Flow Assist)",
+      "alias": "GOFA Server UI",
+      "start": "May 2021",
+      "end": "July 2023",
+      "description": [
+        "Developed and implemented Goal Oriented Flow Assist(ant) (GOFA), an innovative solution that enables end-users to easily specify flows in AppConnect.",
+        "Leveraging cutting-edge technologies such as React, NextJS, Natural Language Processing (NLP) and Artificial Intelligence (AI), GOFA is able to understand user utterances and sentences and automatically build flows, streamlining the flow creation process and improving overall productivity.",
+        "As a key member of the development team, I played a critical role in designing, building, and testing in GOFA Server UI, ensuring that it met the highest standards of quality and performance.",
+        "Working collaboratively with other team members, I provided valuable input and feedback throughout the development process, contributing to the overall success of the project.",
+        "Continuously improving and refining GOFA, and committed to delivering solutions that exceeds client expectations and drives measurable business value."
+      ]
+    },
+    {
+      "name": "Signet",
+      "alias": "",
+      "start": "Dec 2020",
+      "end": "May 2021",
+      "description": [
+        "Contributed to the development of Signet, an e-commerce project that serves various jewelry brand websites such as zales.com and kay.com.",
+        "Leveraging technologies like Java Spring Boot, JavaScript, and jQuery, I played role in building high-quality, scalable solutions that met the unique needs of each client.",
+        "As a key member of the development team, I worked collaboratively with other team members to ensure that Signet delivered exceptional value to its clients and end-users.",
+        "Consistently meeting project milestones and deadlines, and demonstrated exceptional attention to detail and a deep commitment to delivering quality software solutions."
+      ]
+    },
+    {
+      "name": "Olympus",
+      "alias": "",
+      "start": "June 2019",
+      "end": "Dec 2020",
+      "description": [
+        "Played a key role in the development and testing of Olympus, a Salesforce application that provides card servicing facilities to clients, including customer details updates and promotional offers.",
+        "Application leverages Salesforce and other technologies, helped to build a highly effective and efficient application that improved agent productivity and enhanced the customer experience.",
+        "Worked collaboratively with other teams to identify and address bugs, issues, and other defects, ensuring that the application was ready for deployment and use by clients.",
+        "Developed a custom tool that was used to gather data for testing the Olympus application, streamlining the testing process and improving its efficiency and effectiveness.",
+        "Demonstrated exceptional attention to detail and a deep understanding of the Olympus application and its testing needs, ensuring that the tool was highly accurate and reliable."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "JavaScript",
+      "rating": 4
+    },
+    { "id": 2, "name": "CSS", "rating": 4 },
+    { "id": 3, "name": "HTML5", "rating": 4 },
+    { "id": 4, "name": "Git", "rating": 4 },
+    { "id": 5, "name": "React", "rating": 4 },
+    { "id": 6, "name": "NextJS", "rating": 3 },
+    { "id": 7, "name": "Bootstrap", "rating": 4 },
+    { "id": 8, "name": "VSCode", "rating": 4 },
+    { "id": 9, "name": "TypeScript", "rating": 3 },
+    { "id": 10, "name": "Docker", "rating": 3 },
+    { "id": 11, "name": "Webpack", "rating": 3 },
+    { "id": 12, "name": "SvelteKit", "rating": 3 }
+  ],
+  "publication": [
+    {
+      "id": 1,
+      "name": "A Goal-Driven Natural Language Interface for Creating Application Integration Workflows",
+      "published_at": "The Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22)",
+      "link": "https://ojs.aaai.org/index.php/AAAI/article/view/21712/21461"
+    }
+  ],
+  "achievements": [
+    {
+      "name": "Top Talent FY2022",
+      "org": "Persistent Systems",
+      "date": "May 2022",
+      "description":""
+    },
+    {
+      "name": "Exceptional contribution in Pre-Screening Evaluator",
+      "org": "Persistent Systems",
+      "date": "April 2022",
+      "description": "Worked as Evaluator for India’s Biggest Hackathon i.e., Smart India Hackathon’22 and received recognition certificate"
+    },
+    {
+      "name": "Bravo - Team Awards",
+      "org": "Persistent Systems",
+      "date": "February 2022",
+      "description":""
+    },
+    {
+      "name": "Pinnacle Awards FY20",
+      "org": "Accenture",
+      "date": "August 2020",
+      "description":""
+    },
+    {
+      "name": "Achiever’s Award",
+      "org": "Accenture",
+      "date": "December 2019",
+      "description":""
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "fluency": "4",
+      "exam": "IELTS"
+    },
+    {
+      "name": "Hindi",
+      "fluency": "5"
+    }
+  ],
+  "interest": ["Music", "Gaming", "Travelling"]
+}
