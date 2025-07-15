@@ -17,20 +17,22 @@ COPY . .
 # Build the SvelteKit application for static export
 # Ensure your svelte.config.js is configured for static adapter (e.g., adapter-static)
 RUN npm run build
+EXPOSE 3400
+CMD ["npm", "run", "preview"]
 
-# Stage 2: Serve the static files with a lightweight web server (e.g., Nginx)
-FROM nginx:alpine AS production
+# # Stage 2: Serve the static files with a lightweight web server (e.g., Nginx)
+# FROM nginx:alpine AS production
 
-# Copy the built SvelteKit static files from the build stage
-COPY --from=build /app/build /usr/share/nginx/html
+# # Copy the built SvelteKit static files from the build stage
+# COPY --from=build /app/build /usr/share/nginx/html
 
-# Optional: Copy a custom Nginx configuration if needed
-# For a basic static site, the default Nginx config is usually fine.
-# If you have specific routing, error pages, or headers, you might need this.
-# COPY nginx.conf /etc/nginx/conf.d/default.conf
+# # Optional: Copy a custom Nginx configuration if needed
+# # For a basic static site, the default Nginx config is usually fine.
+# # If you have specific routing, error pages, or headers, you might need this.
+# # COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-# Expose the port Nginx listens on
-EXPOSE 80
+# # Expose the port Nginx listens on
+# EXPOSE 80
 
-# Command to run Nginx
-CMD ["nginx", "-g", "daemon off;"]
+# # Command to run Nginx
+# CMD ["nginx", "-g", "daemon off;"]
