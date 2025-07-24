@@ -7,7 +7,7 @@ export default defineConfig({
 	preview: {
 		port: 3400,
 		host: true,
-		allowedHosts: ['localhost', '*.devhawks.in']
+		allowedHosts: ['localhost', '.devhawks.in']
 	},
 	test: {
 		projects: [
